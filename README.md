@@ -1,3 +1,7 @@
+English: Homeworks made by me for this class
+
+Español: Tareas hechas por mi para esta curso
+
 # Carta a Santa
 
 Taller JavaScript (forms, inputs, validation, events, RegExp, objects, callbacks , local storage, ajax)
